@@ -1,0 +1,41 @@
+body {
+width: 100vw;
+height: 100vh;
+overflow: hidden;
+background-color: purple;
+font-family: sans-serif;
+display: flex;
+justify-content: center;
+align-items: center; 
+text-align: center;
+}
+
+.btn {
+padding: 10px 20px; 
+margin: 0 5px; 
+font-size: 0.99rem;
+border-radius: 6px;
+background-color: purple;
+color: #fff;
+cursor: pointer;
+}
+
+.container {
+width: 450px;
+padding: 50px 20px;
+background-color: #fff;
+border-radius: 5px;
+}
+
+h1 {
+font-size: 1.1rem;
+color: black;
+margin-bottom: 20px;
+text-decoration: underline;
+}
+
+.joke-text {
+font-size: 1.8rem;
+margin-bottom: 30px;
+font-family: monospace;
+}
